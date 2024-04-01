@@ -1,0 +1,6 @@
+@SimpleCryptoAPI_HostAddress = http://localhost:5036
+
+GET {{SimpleCryptoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
